@@ -49,13 +49,22 @@
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=danish2331&bg_color=031314&title_color=007C7C&text_color=BDC9C8&icon_color=007C7C&border_color=005D5D&hide_border=false&include_all_commits=true&count_private=true" height="195" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://streak-stats.demolab.com/?user=danish2331&background=031314&border=005D5D&stroke=005D5D&ring=007C7C&fire=007C7C&currStreakNum=DFE3E2&sideNums=DFE3E2&currStreakLabel=007C7C&sideLabels=007C7C&dates=BDC9C8&hide_border=false" height="195" alt="GitHub Streak" />
-  &nbsp;
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=danish2331&bg_color=031314&title_color=007C7C&text_color=BDC9C8&icon_color=007C7C&border_color=005D5D&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="195" alt="Top Languages" />
-</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr align="center">
+    <td>
+      <img src="https://github-readme-stats.shion.dev/api?username=danish2331&bg_color=031314&title_color=007C7C&text_color=BDC9C8&icon_color=007C7C&border_color=005D5D&hide_border=false&include_all_commits=true&count_private=true" width="480" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=danish2331&background=031314&border=005D5D&stroke=005D5D&ring=007C7C&fire=007C7C&currStreakNum=DFE3E2&sideNums=DFE3E2&currStreakLabel=007C7C&sideLabels=007C7C&dates=BDC9C8&hide_border=false" width="480" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr align="center">
+    <td colspan="2">
+      <br/>
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=danish2331&bg_color=031314&title_color=007C7C&text_color=BDC9C8&icon_color=007C7C&border_color=005D5D&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="380" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="./divider.svg" alt="" width="100%" />
