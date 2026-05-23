@@ -8,12 +8,12 @@
 
 ## About Me
 
-- I’m currently working on AI, Computer Vision & IoT-based projects
-- I’m looking to collaborate on Open Source, AI/ML & impactful software projects
-- I’m looking for help with System Design, DevOps & building production-ready applications
-- I’m currently learning Deep Learning, scalable software design & advanced ML workflows
-- Ask me about Python, Machine Learning, OpenCV, APIs, YOLOv8, IoT & GitHub
-- Fun fact: I like building practical AI prototypes that solve real-world problems
+- 🔭 I’m currently working on AI, Computer Vision & IoT-based projects
+- 👯 I’m looking to collaborate on Open Source, AI/ML & impactful software projects
+- 🤝 I’m looking for help with System Design, DevOps & building production-ready applications
+- 🌱 I’m currently learning Deep Learning, scalable software design & advanced ML workflows
+- 💬 Ask me about Python, Machine Learning, OpenCV, APIs, YOLOv8, IoT & GitHub
+- ⚡ Fun fact: I like building practical AI prototypes that solve real-world problems
 
 <p align="center">
   <img src="./divider.svg" alt="" width="100%" />
@@ -49,22 +49,14 @@
 
 ## GitHub Stats
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr align="center">
-    <td>
-      <img src="https://github-readme-stats.shion.dev/api?username=danish2331&bg_color=031314&title_color=007C7C&text_color=BDC9C8&icon_color=007C7C&border_color=005D5D&hide_border=false&include_all_commits=true&count_private=true" width="480" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com/?user=danish2331&background=031314&border=005D5D&stroke=005D5D&ring=007C7C&fire=007C7C&currStreakNum=DFE3E2&sideNums=DFE3E2&currStreakLabel=007C7C&sideLabels=007C7C&dates=BDC9C8&hide_border=false" width="480" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr align="center">
-    <td colspan="2">
-      <br/>
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=danish2331&bg_color=031314&title_color=007C7C&text_color=BDC9C8&icon_color=007C7C&border_color=005D5D&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="380" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=danish2331&bg_color=031314&title_color=007C7C&text_color=BDC9C8&icon_color=007C7C&border_color=005D5D&hide_border=false&include_all_commits=true&count_private=true" width="450" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com/?user=danish2331&background=031314&border=005D5D&stroke=005D5D&ring=007C7C&fire=007C7C&currStreakNum=DFE3E2&sideNums=DFE3E2&currStreakLabel=007C7C&sideLabels=007C7C&dates=BDC9C8&hide_border=false" width="495" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=danish2331&bg_color=031314&title_color=007C7C&text_color=BDC9C8&icon_color=007C7C&border_color=005D5D&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="370" alt="Most Used Languages" />
+</p>
 
 <p align="center">
   <img src="./divider.svg" alt="" width="100%" />
